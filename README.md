@@ -1,1 +1,1 @@
-Projeto Calculado v1.0
+Projeto Calculadora BETA
